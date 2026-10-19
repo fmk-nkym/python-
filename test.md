@@ -29,9 +29,9 @@
 
 ### インラインコード
 
-[webへのリンク] (https://kujirahand.com)
+[webサイトへのリンク](https://kujirahand.com)
 
-![クジラ飛行机の画像] (https://kujirahand.com/wiki/attach/23.jpeg)
+![クジラ飛行机の画像](https://kujirahand.com/wiki/attach/23.jpeg)
 
 | ヘッダ1 | ヘッダ2 | ヘッダ3 |
 | ------- | ------- | ------- |
